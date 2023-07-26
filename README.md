@@ -1,2 +1,2 @@
 # spam_classifier
-to classify spam in emails
+To classify spam in emails. This project is made as for the task submission during my internship at CODE CLAUSE Technologies
